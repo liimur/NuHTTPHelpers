@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/timburks/NuHTTPHelpers"
   s.author       = "Tim Burks"
   s.source       = { :git => "https://github.com/liimur/NuHTTPHelpers.git" }
-  s.source_files = "NSData+CocoaDevUsersAdditions.*"
+  s.source_files = "objc/NSData+CocoaDevUsersAdditions.*"
   s.platform	 = :ios, "4.0"
   s.requires_arc = true
   s.license	 = {

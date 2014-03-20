@@ -11,7 +11,8 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.license	 = {
 	:type => "Custom",
-	:text => <<-LICENSEINFO  Copyright (C) 2014  All Rights Reserved.
+	:text => <<-LICENSEINFO  
+Copyright (C) 2014  All Rights Reserved.
 LICENSEINFO
 }
 end
